@@ -1,3 +1,5 @@
+My name is Magnus... or is it?
+
 This is a rabbit
 
 |--------------|
@@ -31,4 +33,10 @@ bababa
 baba
 ba
 b
+<<<<<<< HEAD:magnus.txt
 >>>>>>> dc68d16563393a7d8d4c9a1524c6b6957fc21eaf
+=======
+
+
+Herpaderp
+>>>>>>> 269d30f084c427c277016650a53a56c819dd1818:magnus/magnus.txt
