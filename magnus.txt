@@ -21,6 +21,14 @@ This is a human
 |-----/ \------|
 |--------------|
 
+<<<<<<< HEAD
 
 This is what Reza has added
 
+=======
+Babababa
+bababa
+baba
+ba
+b
+>>>>>>> dc68d16563393a7d8d4c9a1524c6b6957fc21eaf
